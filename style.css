@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.nav{
+ 
+    padding-top: 10px;
+    padding-bottom:  25px;
+    background-color: whitesmoke;
+}
+.navLink{
+  padding-left:  80%;
+
+}
+.title{
+    padding-bottom:5%;
+    padding-top: 50px;
+    text-align: center;
+background-color: rgb(172, 128, 213);
+}
+.btn-Title{
+    padding: 5px;
+    border-radius:  4px;
+}
+
+.head{  padding-top: 20px;
+    text-align: center;
+}
+.cards{
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+    font-size: large;
+    padding:  20px;
+border: 10px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+    display: flex;
+}
+.img{
+    size: 10px;
+
+}
+footer{
+    background-color: whitesmoke;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    align-items: start;
+    justify-content: left;
+
+
+}
